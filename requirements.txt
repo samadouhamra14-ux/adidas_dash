@@ -1,11 +1,5 @@
-Python 3.10+
-
 streamlit
-
 pandas
-
 plotly
-
-pillow
-
 openpyxl
+duckdb

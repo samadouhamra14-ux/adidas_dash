@@ -30,6 +30,7 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+streamlit run app.py --server.port 8501   
 ```
 
 ## Project Structure
@@ -59,5 +60,5 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
-## Screenshots
+
 
